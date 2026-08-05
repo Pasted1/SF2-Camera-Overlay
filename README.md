@@ -10,6 +10,10 @@
  
    Note: This has also been tested on an earlier version (1.7.5)
 
+# Video example:
+
+Link : https://www.youtube.com/watch?v=Gb0G-3kY0sw
+
 
 # How to use:
 
